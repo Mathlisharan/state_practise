@@ -61,6 +61,7 @@ const App = () => {
       <Button title="Ascending Order" color="orange" onPress={() => ascedning()} />
       <Button title="Descending Order" color="pink" onPress={() => descending()} />
       <Button title="randomcolor" color="indigo" onPress={() => randomColor()} />
+     
     </View>
   )
 }
